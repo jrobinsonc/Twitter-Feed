@@ -3,7 +3,7 @@
 /**
  * Twitter_Feed
  * 
- * @author      Jose Robinson <jr@joserobinson.com>
+ * @author      JoseRobinson.com
  * @license     MIT License
  * @link        https://github.com/jrobinsonc/Twitter-Feed
  * @version     0.1
